@@ -1,0 +1,166 @@
+.encabezado-gris{
+    width: 71.5rem;
+    height: 7rem;
+    background-color: rgb(223, 223, 223);
+    margin: 1rem 0  0 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.puntos{
+    width: 70px;
+    margin: 1rem 0 0 1rem;
+}
+
+.barra-encabezado{
+    width: 80%;
+    height: 3rem;
+    background-color: white;
+    margin: 2rem 0 0 3rem;
+}
+
+.azul{
+    width: 71.5rem;
+    height: 6rem;
+    background-color: rgb(73, 71, 94);
+    margin: 0 0  0 1rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.lupa{
+    width: 5%;
+    height: 70%;
+    margin: 1rem 1rem 0 0;
+}
+
+.usuario{
+     width: 10%;
+     height: 2rem;
+     background-color: rgb(182, 15, 15);
+     margin: 2rem 1rem 0 0;
+     color: white;
+    text-align: center;
+    font-size: large;
+
+}
+
+.caja-padre{
+    width: 70%;
+    height: auto;
+    margin: 1rem 0  0 1rem;
+}
+
+.computadora{
+    width: 49rem;
+    height: 25rem;
+    background-color: rgb(179, 179, 179);
+
+}
+
+.caja-padre2{
+    width: 50rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    font-size: x-large;
+}
+
+.uno, .dos, .tres{
+    width: 18rem;
+    height: 10rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 0 0 1rem ;
+} 
+
+.python{
+    width: 13rem;
+    height: 8rem;
+    margin:0 0 0 0.5rem;
+}
+
+.java{
+    width: 11rem;
+    height: 8rem;
+    margin: 0 0 2rem 1.5rem;
+}
+
+.c-mas{
+    width: 11rem;
+    height: 8rem;
+    margin: 0 0 2rem 1.5rem;
+}
+
+.caja-padre3{
+    width: 50rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    font-size: x-large;
+}
+
+.uno1, .dos2, .tres3{
+    width: 18rem;
+    height: 10rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 0 0 1rem;
+} 
+
+.c{
+    width: 15rem;
+    height: 10rem;
+    margin: 0 0 2rem 0.5rem;
+}
+
+.js{
+    width: 13rem;
+    height: 8rem;
+    margin: 0 0 2rem 0.5rem;
+}
+
+.php{
+    width: 13rem;
+    height: 8rem;
+    margin: 0 0 2rem 0.5rem;
+}
+
+.caja-padre4{
+    width: 70%;
+    height: auto;
+}
+
+.logo-colegio{
+    width: 15rem;
+    height: 10rem;
+    background-color: rgb(179, 179, 179);
+    margin: 0rem 0  0 1rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.texto{
+    width: 25rem;
+    margin: 0 0 0.5rem 0.8rem;
+}
+
+
+.caja-padre5{
+    width: 20rem;
+    height: 56rem;
+    background-color: rgb(223, 223, 223);
+    margin: 0 0 0 2rem;
+}
+
+.chat1, .chat2, .chat3, .chat4{
+    width: 15rem;
+    height: 8rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 0 0 3.5rem;
+}
+
+.chat5{
+    width: 13rem;
+    height: 10rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 1rem 1rem 3.5rem;
+}
